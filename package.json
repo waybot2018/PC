@@ -1,0 +1,12 @@
+{
+    "name": "WayBot_NodeRed",
+    "description": "WayBot NodeRed",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_KEY-TS.json",
+            "credentialsFile": "flows_KEY-TS_cred.json"
+        }
+    }
+}
